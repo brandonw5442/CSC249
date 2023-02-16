@@ -2,6 +2,13 @@
 #include <string>
 using namespace std;
 
+*/
+CSC 249
+M3T2 - Insertion sort
+norris
+2/16/2022
+
+
 void InsertionSort(int* numbers, int numbersSize) {
    for (int i = 1; i < numbersSize; i++) {
       int j = i;
