@@ -2,11 +2,15 @@
 #include <string>
 using namespace std;
 
-*/
+/*
 CSC 249
 M3T2 - Insertion sort
 norris
 2/16/2022
+- Implement basic insertion sort
+- TODO: Add instrumentation
+
+*/
 
 
 void InsertionSort(int* numbers, int numbersSize) {
